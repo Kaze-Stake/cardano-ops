@@ -603,8 +603,14 @@
     valency = 1;
   }
   {
-    operator = "CardanesiaRelay2";
-    addr = "35.232.118.177";
+    operator = "Kaze_RelayNode1";
+    addr = "94.254.35.232";
+    port = 3001;
+    valency = 1;
+  }
+  {
+    operator = "Kaze_RelayNode2";
+    addr = "94.254.35.232";
     port = 3002;
     valency = 1;
   }
